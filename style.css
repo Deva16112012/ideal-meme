@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+#d{
+    display: none;
+    margin: 10px;
+}
+input{
+    margin: 10px;
+}
